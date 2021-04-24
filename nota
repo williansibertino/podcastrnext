@@ -1,0 +1,10 @@
+tsx = typescript + jsx (xml no javascript)
+
+// instalar dependências do typescript
+yarn add typescript @type/react @type/node -d
+
+//instalar sass
+yarn add sass
+
+//Criar document do html
+document.tsx
